@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import time
 import pygame
-import subprocess
 from colorama import Fore, Style, init
 #from unidecode import unidecode
 #from braille import to_unicode

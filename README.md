@@ -12,7 +12,7 @@ You can run asama2.py on the terminal screen. This will give you a better result
 note: python file is dependent on dr_dre.mp3 file
 
 
-## Executable
+## Executable side:
 You can download Version1.rar file and run it as a console application in windows environment. <br>
 note: exe file is dependent on dr_dre.mp3 file
 
